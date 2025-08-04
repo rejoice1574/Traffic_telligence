@@ -9,5 +9,5 @@ Install dependencies:pip install -r requirements.txt
 Run the model training script to generate the necessary .pkl files:python train_model.py
 Run the Flask application:flask --app Flask/app.py run
 Open your web browser and navigate to http://127.0.0.1:5000/.Project Report & Demonstration VideoFor a detailed breakdown of the project, including a full technical analysis, methodology, and future work, please refer to the following documents.
-Word Document : [Link to your Word Document in Google Drive, Dropbox, etc.]
-Demo Video :[Link to your Project Demonstration Video on YouTube, Vimeo, etc.]
+[Link to your Word Document in Google Drive, Dropbox, etc.]
+[Link to your Project Demonstration Video on YouTube, Vimeo, etc.]
