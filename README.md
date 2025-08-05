@@ -103,9 +103,9 @@ Then open your browser and visit:
 
 ## 📄 Documentation & Demo
 
-* \[📘 Project Report (Google Drive / Dropbox link here)]
-* \[🎥 Project Demo Video (YouTube / Vimeo link here)]
+*  Word Document : https://drive.google.com/file/d/1Ant_K_3kCGPoR2vLjrWtoQSUHEf2GHnv/view?usp=drivesdk
+* Demo video : https://drive.google.com/file/d/1Az0N37PDOMgD3hn98hb-zChXsus94CjU/view?usp=drivesdk
 
 ---
 
-Let me know if you want this copy added as a `README.md` file directly or need a badge section + license too!
+
